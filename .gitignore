@@ -1,0 +1,11 @@
+.DS_Store
+apex/
+*.pyc.vscode/
+.idea/
+.vscode/
+__pycache__/
+save_dir/
+data/
+data
+upload_code_to_oss.sh
+download_code_from_oss.sh
